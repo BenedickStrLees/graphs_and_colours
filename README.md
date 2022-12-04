@@ -1,1 +1,2 @@
 # graphs_and_colours
+A graph G with 15 vertices, which are numbered from 1 to 15, is given. The vertices with numbers i and j are connected by an edge if |i−j|≤3, and are not connected otherwise. We call a coloring of graph vertices in black and white "good" if exactly 6 vertices are colored in white, and the number of edges whose ends are colored in different colors is even. How many good colorings of the graph G are there?
